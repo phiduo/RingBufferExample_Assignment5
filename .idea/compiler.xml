@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="assignment01 (1)" />
-        <module name="assignment01" />
+        <module name="RingBufferExample_Assignment5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="assignment01" target="11" />
       <module name="assignment01 (1)" target="11" />
+      <module name="assignment05" target="11" />
+      <module name="RingBufferExample_Assignment5" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
