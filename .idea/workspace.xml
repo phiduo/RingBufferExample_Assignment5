@@ -5,70 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4016af7-3cfe-4591-a497-1cdf0ff10119" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__colt_colt_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__concurrent_concurrent_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_algorithms_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_graph_impl_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_io_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_jai_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jung_jung_visualization_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_collections_collections_generic_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_ac_waikato_modeljunit_modeljunit_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_uispec4j_uispec4j_jdk16_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RingBufferExample_Assignment1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/at/jku/swtesting/RingBufferSimpleModelWithAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/at/jku/swtesting/RingBufferSimpleModelWithAdapterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_14_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_5_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_5_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClientExample_Assignment2/HttpClientExample/assignment01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClientExample_Assignment2/HttpClientExample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClientExample_Assignment2/HttpClientExample/src/main/java/at/jku/swtesting/HttpClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClientExample_Assignment2/HttpClientExample/src/test/java/at/jku/swtesting/HttpClientTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClientExample_Assignment2/HttpClientExample/target/classes/at/jku/swtesting/HttpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClientExample_Assignment2/HttpClientExample/target/test-classes/at/jku/swtesting/HttpClientTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/assignment01 (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RingBufferExample_Assignment5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/src/main/java/at/jku/swtesting/RingBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/src/test/java/at/jku/swtesting/RingBufferTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/assignment01-1.0.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/classes/at/jku/swtesting/RingBuffer$RingBufferIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/classes/at/jku/swtesting/RingBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/surefire-reports/TEST-at.jku.swtesting.RingBufferTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/surefire-reports/at.jku.swtesting.RingBufferTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RingBufferExample_Assignment1/target/test-classes/at/jku/swtesting/RingBufferTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,36 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Startklar/Documents/GitHub/RingBufferExample_Assignment1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\JKU\CE UE\RingBufferExample_Assignment5" />
       <recent name="D:\Documents\JKU\CE UE\RingBufferExample_Assignment5\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="at.jku.swtesting" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RingBufferSimpleModelTest">
-    <configuration name="HttpClientTest.testGetContentOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="assignment05" />
+  <component name="RunManager" selected="JUnit.RingBufferSimpleModelWithAdapterTest.randomTestWithSimpleModel">
+    <configuration name="RingBufferSimpleModelWithAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.jku.swtesting.RingBufferSimpleModelWithAdapter" />
+      <module name="RingBufferExample_Assignment5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="at.jku.swtesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="at.jku.swtesting" />
-      <option name="MAIN_CLASS_NAME" value="at.jku.swtesting.HttpClientTest" />
-      <option name="METHOD_NAME" value="testGetContentOk" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,6 +80,22 @@
       <option name="PACKAGE_NAME" value="at.jku.swtesting" />
       <option name="MAIN_CLASS_NAME" value="at.jku.swtesting.RingBufferSimpleModelTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RingBufferSimpleModelWithAdapterTest.randomTestWithSimpleModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RingBufferExample_Assignment5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.jku.swtesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.jku.swtesting" />
+      <option name="MAIN_CLASS_NAME" value="at.jku.swtesting.RingBufferSimpleModelWithAdapterTest" />
+      <option name="METHOD_NAME" value="randomTestWithSimpleModel" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,41 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RingBufferTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="assignment01 (1)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="at.jku.swtesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="at.jku.swtesting" />
-      <option name="MAIN_CLASS_NAME" value="at.jku.swtesting.RingBufferTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="RingBufferExample_Assignment5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="RingBufferExample_Assignment5" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RingBufferSimpleModelWithAdapterTest.randomTestWithSimpleModel" />
+        <item itemvalue="Application.RingBufferSimpleModelWithAdapter" />
         <item itemvalue="JUnit.RingBufferSimpleModelTest" />
         <item itemvalue="JUnit.RingBufferTest (2)" />
         <item itemvalue="JUnit.RingBufferTest (1)" />
-        <item itemvalue="JUnit.RingBufferTest" />
-        <item itemvalue="JUnit.HttpClientTest.testGetContentOk" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +151,7 @@
       <workItem from="1681145687017" duration="2986000" />
       <workItem from="1683293572746" duration="926000" />
       <workItem from="1683294507536" duration="5142000" />
+      <workItem from="1683752985706" duration="3242000" />
     </task>
     <servers />
   </component>
@@ -225,7 +168,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -241,6 +183,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/at/jku/swtesting/RingBufferSimpleModelWithAdapter.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
